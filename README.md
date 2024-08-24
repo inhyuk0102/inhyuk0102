@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+the+myprofile!;어서오세요!)](https://git.io/typing-svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=inhyuk0102&show_icons=true&theme=radical)
-# : 🧑🏻‍💻PS
+#  🧑🏻‍💻PS
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=inhyuk0102)](https://solved.ac/inhyuk0102/)
 
 # 📚 I’m currently learning ...
