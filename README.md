@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 #Academic Backgrond
-## Inha University CSE 24' Undergraduate
+###Inha University CSE 24' Undergraduate
 [Computer Science Enginerring](https://cse.inha.ac.kr/)• In progress (Year 2)
-# Performance
+#Performance
 |Organization|Role|Duration|
 |-----|---|----|
 |인하대학교 프로그래밍 학술 동아리, IGRUS:운영진|행정부 부원|2024/08~On Hold|
