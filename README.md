@@ -36,7 +36,7 @@ Inha University CSE 24' Undergraduate
 
 |Project Title| Description|Role| Duration|
 |---|----|---|----|
-|[igrus-bedrock-gallery](https://github.com/igrus-bedrock-gallery)|Amazon Bedrock gallery의 주제와 더불어 전생과 후의 미래 직업을 그리는 서비스|prompt engineering,severless engineering|2024/07/20~2024/11/30
+|[igrus-bedrock-gallery](https://github.com/igrus-bedrock-gallery)|Amazon Bedrock gallery의 주제와 더불어 전생과 후의 미래 직업을 그리는 서비스|prompt engineering,frontend|2024/07/20~2024/11/30
 
 # :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:inhyuk0102@gmail.com)](mailto:inhyuk0102@gmail.com)
